@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Konsta Kemppinen\\Documents\\GitHub\\Dev\\ExampleAverage\\ExampleAverage\\ExampleAverage.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Konsta Kemppinen\\Documents\\GitHub\\Dev\\ExampleAverage\\ExampleAverage\\ExampleAverage.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Konsta Kemppinen\\Documents\\GitHub\\Dev\\ExampleAverage\\ExampleAverage\\ExampleAverage.csproj",
+        "projectName": "ExampleAverage",
+        "projectPath": "C:\\Users\\Konsta Kemppinen\\Documents\\GitHub\\Dev\\ExampleAverage\\ExampleAverage\\ExampleAverage.csproj",
+        "packagesPath": "C:\\Users\\Konsta Kemppinen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Konsta Kemppinen\\Documents\\GitHub\\Dev\\ExampleAverage\\ExampleAverage\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Konsta Kemppinen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
